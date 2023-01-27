@@ -19,3 +19,9 @@ However, I recommend just downloading the folders I have in there whole. Droppin
 C:\Program Files (x86)\Steam\steamapps\common\Barony where the .exe and other sure files are will replace automatically replace those files for you :)
 
 You can ignore the lockpick (lockbox).vox and lockpick (OG).vox files, and only download the folders in the lockbox mod folder.
+
+To download the whole folders:
+1. Right-click and copy the url for the folders (there are 2, so you will do these steps twice)
+2. Open a new tab and go to here (feel free to copy and paste): https://download-directory.github.io/
+3. Paste the folder url and press enter
+4. You should get a zip folder, unzip and boom, you got it
