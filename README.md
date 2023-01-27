@@ -22,6 +22,6 @@ You can ignore the lockpick (lockbox).vox and lockpick (OG).vox files, and only 
 
 To download the whole folders:
 1. Right-click and copy the url for the folders (there are 2, so you will do these steps twice)
-2. Open a new tab and go to here (feel free to copy and paste): https://download-directory.github.io/
+2. Open this on a new tab: https://download-directory.github.io/
 3. Paste the folder url and press enter
 4. You should get a zip folder, unzip and boom, you got it
