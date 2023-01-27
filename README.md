@@ -8,6 +8,8 @@ C:\Program Files (x86)\Steam\steamapps\common\Barony, or wherever your steam gam
 You should also delete the DAT files in that same directory. The two files in question are the scores.DAT and scores_multiplayer.DAT files.
 These can prevent you from launching the game when you replace the .exe file, so delete them.
 
+-----
+
 For the .vox and .png files, you must replace them in the steam folder:
 C:\Program Files (x86)\Steam\steamapps\common\Barony
 For now these only include the lockbox .vox file and the en language file. Both are in the lockbox mod folder here.
